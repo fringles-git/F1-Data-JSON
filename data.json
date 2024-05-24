@@ -1,0 +1,463 @@
+{
+  "drivers": [
+    {
+      "id": "ALB",
+      "full_name": "Alexander Albon",
+      "nationality": "TH",
+      "number": 23,
+      "team_id": "WIL",
+      "date_of_birth": "1996-03-23",
+      "place_of_birth": "London"
+    },
+    {
+      "id": "GIO",
+      "full_name": "Antonio Giovinazzi",
+      "nationality": "IT",
+      "number": 99,
+      "team_id": "AFM",
+      "date_of_birth": "1993-12-14",
+      "place_of_birth": "Martina Franca"
+    },
+    {
+      "id": "LEC",
+      "full_name": "Charles Leclerc",
+      "nationality": "MC",
+      "number": 16,
+      "team_id": "FER",
+      "date_of_birth": "1997-10-16",
+      "place_of_birth": "Monte Carlo"
+    },
+    {
+      "id": "SAI",
+      "full_name": "Carlos Sainz Jr.",
+      "nationality": "ES",
+      "number": 55,
+      "team_id": "FER",
+      "date_of_birth": "1994-09-01",
+      "place_of_birth": "Madrid"
+    },
+    {
+      "id": "RIC",
+      "full_name": "Daniel Ricciardo",
+      "nationality": "AU",
+      "number": 3,
+      "team_id": "RB",
+      "date_of_birth": "1989-07-01",
+      "place_of_birth": "Perth"
+    },
+    {
+      "id": "KVY",
+      "full_name": "Daniil Kvyat",
+      "nationality": "RU",
+      "number": 26,
+      "team_id": "AT",
+      "date_of_birth": "1994-04-26",
+      "place_of_birth": "Ufa"
+    },
+    {
+      "id": "OCO",
+      "full_name": "Esteban Ocon",
+      "nationality": "FR",
+      "number": 31,
+      "team_id": "ALP",
+      "date_of_birth": "1996-09-17",
+      "place_of_birth": "Évreux"
+    },
+    {
+      "id": "ALO",
+      "full_name": "Fernando Alonso",
+      "nationality": "ES",
+      "number": 14,
+      "team_id": "AST",
+      "date_of_birth": "1981-07-29",
+      "place_of_birth": "Oviedo"
+    },
+    {
+      "id": "RUS",
+      "full_name": "George Russell",
+      "nationality": "GB",
+      "number": 63,
+      "team_id": "MER",
+      "date_of_birth": "1998-02-15",
+      "place_of_birth": "King's Lynn"
+    },
+    {
+      "id": "AIT",
+      "full_name": "Jack Aitken",
+      "nationality": "GB",
+      "number": 89,
+      "team_id": "WIL",
+      "date_of_birth": "1995-09-23",
+      "place_of_birth": "London"
+    },
+    {
+      "id": "MAG",
+      "full_name": "Kevin Magnussen",
+      "nationality": "DK",
+      "number": 20,
+      "team_id": "HAS",
+      "date_of_birth": "1992-10-05",
+      "place_of_birth": "Roskilde"
+    },
+    {
+      "id": "RAI",
+      "full_name": "Kimi Räikkönen",
+      "nationality": "FI",
+      "number": 7,
+      "team_id": "AFM",
+      "date_of_birth": "1979-10-17",
+      "place_of_birth": "Espoo"
+    },
+    {
+      "id": "STR",
+      "full_name": "Lance Stroll",
+      "nationality": "CA",
+      "number": 18,
+      "team_id": "AST",
+      "date_of_birth": "1998-10-29",
+      "place_of_birth": "Montreal"
+    },
+    {
+      "id": "NOR",
+      "full_name": "Lando Norris",
+      "nationality": "GB",
+      "number": 4,
+      "team_id": "MCL",
+      "date_of_birth": "1999-11-13",
+      "place_of_birth": "Bristol"
+    },
+    {
+      "id": "HAM",
+      "full_name": "Lewis Hamilton",
+      "nationality": "GB",
+      "number": 44,
+      "team_id": "MER",
+      "date_of_birth": "1985-01-07",
+      "place_of_birth": "Stevenage"
+    },
+    {
+      "id": "LAW",
+      "full_name": "Liam Lawson",
+      "nationality": "NZ",
+      "number": 36,
+      "team_id": "AT",
+      "date_of_birth": "2002-10-11",
+      "place_of_birth": "Hastings"
+    },
+    {
+      "id": "SAR",
+      "full_name": "Logan Sargeant",
+      "nationality": "US",
+      "number": 42,
+      "team_id": "WIL",
+      "date_of_birth": "2000-12-31",
+      "place_of_birth": "St. Petersburg"
+    },
+    {
+      "id": "VER",
+      "full_name": "Max Verstappen",
+      "nationality": "NL",
+      "number": 33,
+      "team_id": "RBR",
+      "date_of_birth": "1997-09-30",
+      "place_of_birth": "Hasselt"
+    },
+    {
+      "id": "MSC",
+      "full_name": "Mick Schumacher",
+      "nationality": "DE",
+      "number": 47,
+      "team_id": "HAS",
+      "date_of_birth": "1999-03-22",
+      "place_of_birth": "Vufflens-le-Château"
+    },
+    {
+      "id": "LAT",
+      "full_name": "Nicholas Latifi",
+      "nationality": "CA",
+      "number": 6,
+      "team_id": "WIL",
+      "date_of_birth": "1995-06-29",
+      "place_of_birth": "Montreal"
+    },
+    {
+      "id": "HUL",
+      "full_name": "Nico Hülkenberg",
+      "nationality": "DE",
+      "number": 27,
+      "team_id": "HAS",
+      "date_of_birth": "1987-08-19",
+      "place_of_birth": "Emmerich am Rhein"
+    },
+    {
+      "id": "MAZ",
+      "full_name": "Nikita Mazepin",
+      "nationality": "RU",
+      "number": 9,
+      "team_id": "HAS",
+      "date_of_birth": "1999-03-02",
+      "place_of_birth": "Moscow"
+    },
+    {
+      "id": "DEV",
+      "full_name": "Nyck De Vries",
+      "nationality": "NL",
+      "number": 2,
+      "team_id": "AT",
+      "date_of_birth": "1995-02-06",
+      "place_of_birth": "Sneek"
+    },
+    {
+      "id": "BEA",
+      "full_name": "Oliver Bearman",
+      "nationality": "GB",
+      "number": 38,
+      "team_id": "FER",
+      "date_of_birth": "2005-05-08",
+      "place_of_birth": "Chelmsford"
+    },
+    {
+      "id": "PIA",
+      "full_name": "Oscar Piastri",
+      "nationality": "AU",
+      "number": 31,
+      "team_id": "MCL",
+      "date_of_birth": "2001-04-06",
+      "place_of_birth": "Melbourne"
+    },
+    {
+      "id": "GAS",
+      "full_name": "Pierre Gasly",
+      "nationality": "FR",
+      "number": 10,
+      "team_id": "ALP",
+      "date_of_birth": "1996-02-07",
+      "place_of_birth": "Rouen"
+    },
+    {
+      "id": "FIT",
+      "full_name": "Pietro Fittipaldi",
+      "nationality": "BR",
+      "number": 51,
+      "team_id": "HAS",
+      "date_of_birth": "1996-06-25",
+      "place_of_birth": "Miami"
+    },
+    {
+      "id": "GRO",
+      "full_name": "Romain Grosjean",
+      "nationality": "FR",
+      "number": 8,
+      "team_id": "HAS",
+      "date_of_birth": "1986-04-17",
+      "place_of_birth": "Geneva"
+    },
+    {
+      "id": "VET",
+      "full_name": "Sebastian Vettel",
+      "nationality": "DE",
+      "number": 5,
+      "team_id": "AST",
+      "date_of_birth": "1987-07-03",
+      "place_of_birth": "Heppenheim"
+    },
+    {
+      "id": "PER",
+      "full_name": "Sergio Perez",
+      "nationality": "MX",
+      "number": 11,
+      "team_id": "RBR",
+      "date_of_birth": "1990-01-26",
+      "place_of_birth": "Guadalajara"
+    },
+    {
+      "id": "BOT",
+      "full_name": "Valtteri Bottas",
+      "nationality": "FI",
+      "number": 77,
+      "team_id": "SAU",
+      "date_of_birth": "1989-08-28",
+      "place_of_birth": "Nastola"
+    },
+    {
+      "id": "TSU",
+      "full_name": "Yuki Tsunoda",
+      "nationality": "JP",
+      "number": 22,
+      "team_id": "RB",
+      "date_of_birth": "2000-05-11",
+      "place_of_birth": "Sagamihara"
+    },
+    {
+      "id": "ZHO",
+      "full_name": "Zhou Guanyu",
+      "nationality": "CN",
+      "number": 47,
+      "team_id": "SAU",
+      "date_of_birth": "1999-05-30",
+      "place_of_birth": "Shanghai"
+    }
+  ],
+  "teams": [
+    {
+      "id": "ALP",
+      "name": "Alpine",
+      "full_name": "BWT Alpine F1 Team",
+      "base": ["Enstone", "UK"],
+      "team_principal": "Bruno Famin",
+      "technical_chief": ["David Sanchez"],
+      "chassis": "A524",
+      "power_unit": "Renault",
+      "first_entry": 1986,
+      "world_championships": 2,
+      "highest_race_finish": "1 (x21)",
+      "poles": 20,
+      "fastest_laps": 15,
+      "drivers": ["GAS", "OCON"]
+    },
+    {
+      "id": "AMR",
+      "name": "Aston Martin",
+      "full_name": "Aston Martin Aramco F1 Team",
+      "base": ["Silverstone", "UK"],
+      "team_principal": "Mike Krack",
+      "technical_chief": ["Dan Fallows"],
+      "chassis": "AMR24",
+      "power_unit": "Mercedes",
+      "first_entry": 2018,
+      "world_championships": 0,
+      "highest_race_finish": "1 (x1)",
+      "poles": 1,
+      "fastest_laps": 2,
+      "drivers": ["ALO", "STR"]
+    },
+    {
+      "id": "FER",
+      "name": "Ferrari",
+      "full_name": "Scuderia Ferrari",
+      "base": ["Maranello", "IT"],
+      "team_principal": "Frédéric Vasseur",
+      "technical_chief": ["Enrico Cardile", "Enrico Gualtieri"],
+      "chassis": "SF-24",
+      "power_unit": "Ferrari",
+      "first_entry": 1950,
+      "world_championships": 16,
+      "highest_race_finish": "1 (x245)",
+      "poles": 249,
+      "fastest_laps": 261,
+      "drivers": ["LEC", "SAI", "BEA"]
+    },
+    {
+      "id": "HAAS",
+      "name": "Haas",
+      "full_name": "MoneyGram Haas F1 Team",
+      "base": ["Kannapolis", "US"],
+      "team_principal": "Ayao Komatsu",
+      "technical_chief": ["Andrea De Zordo"],
+      "chassis": "VF-24",
+      "power_unit": "Ferrari",
+      "first_entry": 2016,
+      "world_championships": 0,
+      "highest_race_finish": "4 (x1)",
+      "poles": 1,
+      "fastest_laps": 2,
+      "drivers": ["MSC", "MAG", "HUL"]
+    },
+    {
+      "id": "MCL",
+      "name": "McLaren",
+      "full_name": "McLaren Formula 1 Team",
+      "base": ["Woking", "UK"],
+      "team_principal": "Andrea Stella",
+      "technical_chief": ["Peter Prodromou", "Neil Houldey"],
+      "chassis": "MCL38",
+      "power_unit": "Mercedes",
+      "first_entry": 1966,
+      "world_championships": 8,
+      "highest_race_finish": "1 (x184)",
+      "poles": 157,
+      "fastest_laps": 166,
+      "drivers": ["NOR", "PIA"]
+    },
+    {
+      "id": "MER",
+      "name": "Mercedes",
+      "full_name": "Mercedes-AMG PETRONAS F1 Team",
+      "base": ["Brackley", "UK"],
+      "team_principal": "Toto Wolff",
+      "technical_chief": ["James Allison"],
+      "chassis": "W15",
+      "power_unit": "Mercedes",
+      "first_entry": 1970,
+      "world_championships": 8,
+      "highest_race_finish": "1 (x116)",
+      "poles": 129,
+      "fastest_laps": 97,
+      "drivers": ["RUS", "HAM"]
+    },
+    {
+      "id": "RBR",
+      "name": "Red Bull Racing",
+      "full_name": "Oracle Red Bull Racing",
+      "base": ["Milton Keynes", "UK"],
+      "team_principal": "Christian Horner",
+      "technical_chief": ["Pierre Waché"],
+      "chassis": "RB20",
+      "power_unit": "Honda RBPT",
+      "first_entry": 1997,
+      "world_championships": 6,
+      "highest_race_finish": "1 (x118)",
+      "poles": 103,
+      "fastest_laps": 97,
+      "drivers": ["VER", "PER"]
+    },
+    {
+      "id": "RB",
+      "name": "Racing Bulls",
+      "full_name": "Visa Cash App RB Formula One Team",
+      "base": ["Faenza", "IT"],
+      "team_principal": "Laurent Mekies",
+      "technical_chief": ["Jody Egginton"],
+      "chassis": "VCARB 01",
+      "power_unit": "Honda RBPT",
+      "first_entry": 1985,
+      "world_championships": 0,
+      "highest_race_finish": "1 (x2)",
+      "poles": 1,
+      "fastest_laps": 3,
+      "drivers": ["RIC", "TSU"]
+    },
+    {
+      "id": "SAU",
+      "name": "Sauber",
+      "full_name": "Stake F1 Team Kick Sauber",
+      "base": ["Hinwil", "CH"],
+      "team_principal": "Alessandro Alunni Bravi",
+      "technical_chief": ["James Key"],
+      "chassis": "C44",
+      "power_unit": "Ferrari",
+      "first_entry": 1993,
+      "world_championships": 0,
+      "highest_race_finish": "1 (x1)",
+      "poles": 1,
+      "fastest_laps": 7,
+      "drivers": ["BOT", "ZHO"]
+    },
+    {
+      "id": "WIL",
+      "name": "Williams",
+      "full_name": "Williams Racing",
+      "base": ["Grove", "UK"],
+      "team_principal": "James Vowles",
+      "technical_chief": ["Pat Fry"],
+      "chassis": "FW46",
+      "power_unit": "Mercedes",
+      "first_entry": 1978,
+      "world_championships": 9,
+      "highest_race_finish": "1 (x114)",
+      "poles": 128,
+      "fastest_laps": 133,
+      "drivers": ["SAR", "ALB"]
+    }
+  ]
+}
